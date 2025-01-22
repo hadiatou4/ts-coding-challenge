@@ -40,7 +40,7 @@
   dependencies:
     regexp-match-indices "1.0.2"
 
-"@cucumber/cucumber@*", "@cucumber/cucumber@^11.2.0":
+"@cucumber/cucumber@^11.2.0":
   version "11.2.0"
   resolved "https://registry.yarnpkg.com/@cucumber/cucumber/-/cucumber-11.2.0.tgz#6f38ecd0c71717d646b99eb4fe2595f81c8b179a"
   integrity sha512-F69uIPTc7dfgU7/TGAaQaWUz7r/DzoPW39AfJoKQOC7IvBiPQwpvSIo6QEd+63pdpdKNRbtQoVl5vP9IclhhuA==
@@ -402,7 +402,7 @@
     long "^5.2.3"
     protobufjs "7.2.5"
 
-"@hashgraph/sdk@^2.47.0":
+"@hashgraph/sdk@^2.56.0":
   version "2.56.0"
   resolved "https://registry.yarnpkg.com/@hashgraph/sdk/-/sdk-2.56.0.tgz#a73ab4fa52ff1ffeea54fea03d242e1991427075"
   integrity sha512-lIYRb6oahKdWFcbm8nPWLj6KcYTTbMgeTlrDw6PpBaRcFS2SfpmIzW+l+7Kc3Uw3iJnZ+pgY7svqYPO6B3ZK+w==
@@ -538,13 +538,6 @@
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.4.tgz#0b92dcc0cc1c81f6f306a381f28e31b1a56536e9"
   integrity sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==
-
-"@types/cucumber@^7.0.0":
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/@types/cucumber/-/cucumber-7.0.3.tgz#f39bf16938d9bb2d7ca55838ef21fb0ee008227e"
-  integrity sha512-uBPVhCO2meZgiEICd+hTWFRn388vNljDuSppdenww2NJnwYF+HudlZQCGugbmcYLYdKw4NZyn1r+SiLU9aQu/g==
-  dependencies:
-    "@cucumber/cucumber" "*"
 
 "@types/node@>=12.12.47", "@types/node@>=13.7.0":
   version "22.10.7"
@@ -2249,11 +2242,11 @@ type-fest@^2.19.0:
   integrity sha512-RAH822pAdBgcNMAfWnCBU3CFZcfZ/i1eZjwFU/dsLKumyuuP3niueg2UAukXYF0E2AAoc82ZSSf9J0WQBinzHA==
 
 type-fest@^4.6.0, type-fest@^4.7.1, type-fest@^4.8.3:
-  version "4.32.0"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-4.32.0.tgz#55bacdd6f2cf1392b7e9cde894e9b1d726807e97"
-  integrity sha512-rfgpoi08xagF3JSdtJlCwMq9DGNDE0IMh3Mkpc1wUypg9vPi786AiqeBBKcqvIkq42azsBM85N490fyZjeUftw==
+  version "4.33.0"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-4.33.0.tgz#2da0c135b9afa76cf8b18ecfd4f260ecd414a432"
+  integrity sha512-s6zVrxuyKbbAsSAD5ZPTB77q4YIdRctkTbJ2/Dqlinwz+8ooH2gd+YA7VA6Pa93KML9GockVvoxjZ2vHP+mu8g==
 
-typescript@^5.5.2:
+typescript@^5.7.3:
   version "5.7.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.7.3.tgz#919b44a7dbb8583a9b856d162be24a54bf80073e"
   integrity sha512-84MVSjMEHP+FQRPy3pX9sTVV/INIex71s9TL2Gm5FG/WG1SqXeKyZ0k7/blY/4FdOzI12CBy1vGc4og/eus0fw==
